@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hnm/projects/akka-http-crud-master/src/main/resources/application.conf,/Users/hnm/projects/akka-http-crud-master/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hnm/projects/akka-http-crud-master/src/main/resources/db,/Users/hnm/projects/akka-http-crud-master/target/scala-2.12/classes/db)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hnm/projects/akka-http-crud-master/src/main/resources/db/migration,/Users/hnm/projects/akka-http-crud-master/target/scala-2.12/classes/db/migration)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hnm/projects/akka-http-crud-master/src/main/resources/db/migration/V1__Create_сustomers_table.sql,/Users/hnm/projects/akka-http-crud-master/target/scala-2.12/classes/db/migration/V1__Create_сustomers_table.sql)[0m
