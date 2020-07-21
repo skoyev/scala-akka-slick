@@ -1,5 +1,4 @@
-# scala-akka-slick demo
-# Akka Http and Slick based CRUD REST operations
+# Scala Akka Http and Slick Demo based CRUD REST operations
 
 
 ### Create a Customer
@@ -27,14 +26,12 @@ curl -X "GET" "http://127.0.0.1:8080/v1/customers"
 
 ### Get A Customer
 
-[source, scala]
 ----
 curl -X "GET" "http://127.0.0.1:8080/v1/customers/1"
 ----
 
 ### Update Customer
 
-[source, java]
 ----
 curl -X "PUT" "http://127.0.0.1:8080/v1/customers/1" \
      -H "Accept: application/json" \
@@ -49,8 +46,6 @@ curl -X "PUT" "http://127.0.0.1:8080/v1/customers/1" \
 ----
 
 ### Delete Customer
-
-[source, java]
 ----
 curl -X "DELETE" "http://127.0.0.1:8080/v1/customers/1" \
      -H "Accept: application/json" \
